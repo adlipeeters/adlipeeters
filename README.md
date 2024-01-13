@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://andreidev.site/](https://andreidev.site/)
 
-- 💬 Ask me about **NextJS/ReactJS, NodeJS/NestJS, Laravel**
+- 💬 Ask me about **NextJS/ReactJS, NodeJS/NestJS, Laravel, Web3/Solidity**
 
 - 📫 How to reach me **usatii.andrei062000@gmail.com**
 
