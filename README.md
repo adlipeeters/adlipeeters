@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usatîi Andrei</h1>
-<h3 align="center">A passionate Software Developer from Romania</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 - 🌱 I’m currently learning **Solidity**
 
