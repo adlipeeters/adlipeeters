@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **NextJS/ReactJS, NodeJS/NestJS, Laravel, Web3/Solidity**
 
-- 📫 How to reach me **usatii.andrei062000@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
